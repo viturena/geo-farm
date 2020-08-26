@@ -1,13 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    { "id": 132312, "username": "viturena","password","123456" },
+    { "id": 24324, "username": "vitus","password","123456" },
+    { "id": 33212, "username": "demo","password","123456" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "farmers": [{"firstname": "Jane",
+          "middlename": "Pah",
+          "lastname": "Doe",
+          "imageUrl": "assets/profile1.jpg",
+          "farms": [
+            {
+                "farmid": 7883,
+                "region": 'Mtwara',
+                "district": 'Tandahimba',
+                "ward": 'Kihosho',
+                "farmerFirstname": 'Peter',
+                "farmerMiddlename": 'Lee',
+                "farmerLastname": 'Hammo'},
+              {
+                "farmid": 5583,
+                "region": 'Mtwara',
+                "district": 'Tandahimba',
+                "ward": 'Kihosho',
+                "farmerFirstname": 'Jacob',
+                "farmerMiddlename": 'Lee',
+                "farmerLastname": 'Hammo'}
+            }],
   "profile": {
     "name": "typicode"
   }
