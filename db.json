@@ -1,8 +1,8 @@
 {
   "users": [
-    { "id": 132312, "username": "viturena","password","123456" },
-    { "id": 24324, "username": "vitus","password","123456" },
-    { "id": 33212, "username": "demo","password","123456" }
+    { "id": 132312, "username": "viturena","password":"123456" },
+    { "id": 24324, "username": "vitus","password":"123456" },
+    { "id": 33212, "username": "demo","password":"123456" }
   ],
   "farmers": [{"firstname": "Jane",
           "middlename": "Pah",
@@ -11,20 +11,20 @@
           "farms": [
             {
                 "farmid": 7883,
-                "region": 'Mtwara',
-                "district": 'Tandahimba',
-                "ward": 'Kihosho',
-                "farmerFirstname": 'Peter',
-                "farmerMiddlename": 'Lee',
-                "farmerLastname": 'Hammo'},
+                "region": "Mtwara",
+                "district": "Tandahimba",
+                "ward": "Kihosho",
+                "farmerFirstname": "Peter",
+                "farmerMiddlename": "Lee",
+                "farmerLastname": "Hammo"},
               {
                 "farmid": 5583,
-                "region": 'Mtwara',
-                "district": 'Tandahimba',
-                "ward": 'Kihosho',
-                "farmerFirstname": 'Jacob',
-                "farmerMiddlename": 'Lee',
-                "farmerLastname": 'Hammo'}
+                "region": "Mtwara",
+                "district": "Tandahimba",
+                "ward": "Kihosho",
+                "farmerFirstname": "Jacob",
+                "farmerMiddlename": "Lee",
+                "farmerLastname": "Hammo"
             }],
   "profile": {
     "name": "typicode"
