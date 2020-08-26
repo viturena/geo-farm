@@ -1,9 +1,8 @@
  
    {
       "login": [{"error": false,
-   "user": [{ "username": "demo", "password": "123456"}]},
-   {"error": false,
    "user": [{ "username": "demo", "password": "123456"}]}
+  
    
    ],
   "users": [
