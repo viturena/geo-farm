@@ -1,10 +1,8 @@
  
    {
-      "login": [{"error": false,
-   "user": [{ "username": "demo", "password": "123456"}]}
-  
-   
-   ],
+      "login": {"error": false,
+   "user": { "username": "demo", "password": "123456"}}
+,
   "users": [
     { "id": 132312, "username": "viturena","password":"123456" },
     { "id": 24324, "username": "vitus","password":"123456" },
