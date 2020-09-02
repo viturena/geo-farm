@@ -1,36 +1,264 @@
- 
-   {
-      "login": {"error": false,
-   "user": { "username": "demo", "password": "123456"}}
-,
-  "users": [
-    { "id": 132312, "username": "viturena","password":"123456" },
-    { "id": 24324, "username": "vitus","password":"123456" },
-    { "id": 33212, "username": "demo","password":"123456" }
-  ],
-  "farmers": [{"firstname": "Jane",
-          "middlename": "Pah",
-          "lastname": "Doe",
-          "imageUrl": "assets/profile1.jpg",
-          "farms": [
-            {
-                "farmid": 7883,
-                "region": "Mtwara",
-                "district": "Tandahimba",
-                "ward": "Kihosho",
-                "farmerFirstname": "Peter",
-                "farmerMiddlename": "Lee",
-                "farmerLastname": "Hammo"},
-              {
-                "farmid": 5583,
-                "region": "Mtwara",
-                "district": "Tandahimba",
-                "ward": "Kihosho",
-                "farmerFirstname": "Jacob",
-                "farmerMiddlename": "Lee",
-                "farmerLastname": "Hammo"
-            }]}],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{
+    "login": {
+        "error": false,
+        "user": {
+            "username": "demo",
+            "password": "123456"
+        }
+    },
+    "users": [
+        {
+            "id": 312,
+            "username": "viturena",
+            "password": "123456"
+        },
+        {
+            "id": 324,
+            "username": "vitus",
+            "password": "123456"
+        },
+        {
+            "id": 33212,
+            "username": "demo",
+            "password": "123456"
+        }
+    ],
+    "farmers": [
+        {
+            "firstname": "Jane",
+            "middlename": "Pah",
+            "lastname": "Doe",
+            "imageUrl": "assets/profile1.jpg",
+            "farms": [
+                {
+                    "farmid": 7883,
+                    "region": "Mtwara",
+                    "district": "Tandahimba",
+                    "ward": "Kihosho",
+                    "farmerFirstname": "Jane",
+                    "farmerMiddlename": "Pah",
+                    "farmerLastname": "Doe",
+                    "markers": [
+                        {
+                            "orderid": 1,
+                            "latitude": -10.26667,
+                            "longitude": 40.18333,
+                            "elevation": 470
+                        },
+                        {
+                            "orderid": 2,
+                            "latitude": -10.26667,
+                            "longitude": 40.18333,
+                            "elevation": 470
+                        },
+                        {
+                            "orderid": 3,
+                            "latitude": -10.26667,
+                            "longitude": 40.18333,
+                            "elevation": 470
+                        }
+                    ]
+                },
+                {
+                    "farmid": 7883,
+                    "region": "Mtwara",
+                    "district": "Tandahimba",
+                    "ward": "Kihosho",
+                    "farmerFirstname": "Jane",
+                    "farmerMiddlename": "Pah",
+                    "farmerLastname": "Doe",
+                    "markers": [
+                        {
+                            "orderid": 1,
+                            "latitude": -10.283111,
+                            "longitude": 40.184902,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 2,
+                            "latitude": -10.283280,
+                            "longitude": 40.185588,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 3,
+                            "latitude": -10.284251,
+                            "longitude": 40.185931,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 4,
+                            "latitude": -10.284546,
+                            "longitude": 40.185331,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 5,
+                            "latitude": -10.283927,
+                            "longitude": 40.184931,
+                            "elevation": 70
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "firstname": "Peter",
+            "middlename": "Kisosi",
+            "lastname": "Msuli",
+            "imageUrl": "assets/profile1.jpg",
+            "farms": [
+                {
+                    "farmid": 4483,
+                    "region": "Mtwara",
+                    "district": "Tandahimba",
+                    "ward": "Kihosho",
+                    "farmerFirstname": "Peter",
+                    "farmerMiddlename": "Kisosi",
+                    "farmerLastname": "Msuli",
+                    "markers": [
+                        {
+                            "orderid": 1,
+                            "latitude": -10.26667,
+                            "longitude": 40.18333,
+                            "elevation": 470
+                        },
+                        {
+                            "orderid": 2,
+                            "latitude": -10.24567,
+                            "longitude": 41.14733,
+                            "elevation": 470
+                        },
+                        {
+                            "orderid": 3,
+                            "latitude": -10.26688,
+                            "longitude": 79.1833,
+                            "elevation": 470
+                        }
+                    ]
+                },
+                {
+                    "farmid": 7883,
+                    "region": "Mtwara",
+                    "district": "Tandahimba",
+                    "ward": "Kihosho",
+                    "farmerFirstname": "Peter",
+                    "farmerMiddlename": "Kisosi",
+                    "farmerLastname": "Msuli",
+                    "markers": [
+                        {
+                            "orderid": 1,
+                            "latitude": -10.283111,
+                            "longitude": 40.184902,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 2,
+                            "latitude": -10.283280,
+                            "longitude": 40.185588,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 3,
+                            "latitude": -10.284251,
+                            "longitude": 40.185931,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 4,
+                            "latitude": -10.284546,
+                            "longitude": 40.185331,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 5,
+                            "latitude": -10.283927,
+                            "longitude": 40.184931,
+                            "elevation": 70
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "firstname": "Samson",
+            "middlename": "J",
+            "lastname": "Karimu",
+            "imageUrl": "assets/profile1.jpg",
+            "farms": [
+                {
+                    "farmid": 7883,
+                    "region": "Mtwara",
+                    "district": "Tandahimba",
+                    "ward": "Kihosho",
+                    "farmerFirstname": "Samson",
+                    "farmerMiddlename": "J",
+                    "farmerLastname": "Karimu",
+                    "markers": [
+                        {
+                            "orderid": 1,
+                            "latitude": -10.26667,
+                            "longitude": 40.18333,
+                            "elevation": 470
+                        },
+                        {
+                            "orderid": 2,
+                            "latitude": -10.24567,
+                            "longitude": 41.14733,
+                            "elevation": 470
+                        },
+                        {
+                            "orderid": 3,
+                            "latitude": -10.26688,
+                            "longitude": 79.1833,
+                            "elevation": 470
+                        }
+                    ]
+                },
+                {
+                    "farmid": 7883,
+                    "region": "Mtwara",
+                    "district": "Tandahimba",
+                    "ward": "Kihosho",
+                    "farmerFirstname": "Samson",
+                    "farmerMiddlename": "J",
+                    "farmerLastname": "Karimu",
+                    "markers": [
+                        {
+                            "orderid": 1,
+                            "latitude": -10.283111,
+                            "longitude": 40.184902,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 2,
+                            "latitude": -10.283280,
+                            "longitude": 40.185588,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 3,
+                            "latitude": -10.284251,
+                            "longitude": 40.185931,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 4,
+                            "latitude": -10.284546,
+                            "longitude": 40.185331,
+                            "elevation": 70
+                        },
+                        {
+                            "orderid": 5,
+                            "latitude": -10.283927,
+                            "longitude": 40.184931,
+                            "elevation": 70
+                        }
+                    ]
+                }
+            ]
+        }],
+        "profile": {
+            "name": "typicode"
+        }
+    }
