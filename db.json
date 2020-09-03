@@ -30,6 +30,47 @@
             "middlename": "Pah",
             "lastname": "Doe",
             "imageUrl": "https://i.ibb.co/1ZVyCj9/download.jpg",
+            "farmIds": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "id": 23,
+            "firstname": "Prisca",
+            "middlename": "J",
+            "lastname": "Goe",
+            "imageUrl": "https://i.ibb.co/1ZVyCj9/download.jpg",
+            "farmIds": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "id": 23,
+            "firstname": "Yasni",
+            "middlename": "Paul",
+            "lastname": "Kusi",
+            "imageUrl": "https://i.ibb.co/1ZVyCj9/download.jpg",
+            "farmIds": [
+                10,
+                11,
+                12
+            ]
+        }
+    ],
+    "farmersold": [
+        {
+            "id": 23,
+            "firstname": "Jane",
+            "middlename": "Pah",
+            "lastname": "Doe",
+            "imageUrl": "https://i.ibb.co/1ZVyCj9/download.jpg",
             "farms": [
                 {
                     "farmid": 7883,
