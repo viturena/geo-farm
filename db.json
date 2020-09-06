@@ -64,6 +64,110 @@
             ]
         }
     ],
+    "farms": [
+        {
+            "id": 1,
+            "farmerId": 2,
+            "region": "Mtwara",
+            "district": "Tandahimba",
+            "ward": "Kihosho",
+            "size": 3.5,
+            "points": [
+                {
+                    "orderId": 1,
+                    "latitude": -10.26667,
+                    "longitude": 40.18333,
+                    "elevation": 12
+                },
+                {
+                    "orderId": 2,
+                    "latitude": -10.26667,
+                    "longitude": 41.18333,
+                    "elevation": 12
+                },
+                {
+                    "orderId": 3,
+                    "latitude": -10.36667,
+                    "longitude": 37.18333,
+                    "elevation": 2
+                },
+                {
+                    "orderId": 4,
+                    "latitude": -10.37867,
+                    "longitude": 39.18333,
+                    "elevation": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "farmerId": 1,
+            "region": "Mtwara",
+            "district": "Tandahimba",
+            "ward": "Kihosho",
+            "size": 4.5,
+            "points": [
+                {
+                    "orderId": 1,
+                    "latitude": -10.26667,
+                    "longitude": 40.18333,
+                    "elevation": 12
+                },
+                {
+                    "orderId": 2,
+                    "latitude": -10.26667,
+                    "longitude": 41.18333,
+                    "elevation": 12
+                },
+                {
+                    "orderId": 3,
+                    "latitude": -10.36667,
+                    "longitude": 37.18333,
+                    "elevation": 2
+                },
+                {
+                    "orderId": 4,
+                    "latitude": -10.37867,
+                    "longitude": 39.18333,
+                    "elevation": 2
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "farmerId": 3,
+            "region": "Mtwara",
+            "district": "Tandahimba",
+            "ward": "Kihosho",
+            "size": "10",
+            "points": [
+                {
+                    "orderId": 1,
+                    "latitude": -10.26667,
+                    "longitude": 40.18333,
+                    "elevation": 12
+                },
+                {
+                    "orderId": 2,
+                    "latitude": -10.26667,
+                    "longitude": 41.18333,
+                    "elevation": 12
+                },
+                {
+                    "orderId": 3,
+                    "latitude": -10.36667,
+                    "longitude": 37.18333,
+                    "elevation": 2
+                },
+                {
+                    "orderId": 4,
+                    "latitude": -10.37867,
+                    "longitude": 39.18333,
+                    "elevation": 2
+                }
+            ]
+        }
+    ],
     "profile": {
         "name": "typicode"
     }
