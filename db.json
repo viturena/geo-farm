@@ -72,6 +72,7 @@
             "district": "Tandahimba",
             "ward": "Kihosho",
             "size": 3.5,
+            "updatedAt": 1599476400,
             "points": [
                 {
                     "orderId": 1,
@@ -106,6 +107,7 @@
             "district": "Tandahimba",
             "ward": "Kihosho",
             "size": 4.5,
+            "updatedAt": 1599480600,
             "points": [
                 {
                     "orderId": 1,
@@ -140,6 +142,7 @@
             "district": "Tandahimba",
             "ward": "Kihosho",
             "size": 10.3,
+            "updatedAt": 1599481800,
             "points": [
                 {
                     "orderId": 1,
