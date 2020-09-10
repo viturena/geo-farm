@@ -29,7 +29,7 @@
             "firstname": "Jane",
             "middlename": "Pah",
             "lastname": "Doe",
-            "phone": "0762767665",
+            "phone": "0756767665",
             "imageUrl": "https://i.ibb.co/1ZVyCj9/download.jpg",
             "farmIds": [
                 1,
@@ -43,7 +43,7 @@
             "firstname": "Prisca",
             "middlename": "J",
             "lastname": "Goe",
-            "phone": "0756767666",
+            "phone": "0756767665",
             "imageUrl": "https://i.ibb.co/0jcbxd0/farmer2.jpg",
             "farmIds": [
                 5,
@@ -58,7 +58,7 @@
             "firstname": "Yasni",
             "middlename": "Paul",
             "lastname": "Kusi",
-            "phone": "0717767645",
+            "phone": "0756767665",
             "imageUrl": "https://i.ibb.co/KKQ89vf/images.jpg",
             "farmIds": [
                 10,
@@ -81,25 +81,25 @@
                     "orderId": 1,
                     "latitude": -10.26667,
                     "longitude": 40.18333,
-                    "elevation": 12
+                    "elevation": 12.0
                 },
                 {
                     "orderId": 2,
                     "latitude": -10.26667,
                     "longitude": 41.18333,
-                    "elevation": 12
+                    "elevation": 12.5
                 },
                 {
                     "orderId": 3,
                     "latitude": -10.36667,
                     "longitude": 37.18333,
-                    "elevation": 2
+                    "elevation": 2.7
                 },
                 {
                     "orderId": 4,
                     "latitude": -10.37867,
                     "longitude": 39.18333,
-                    "elevation": 2
+                    "elevation": 2.8
                 }
             ]
         },
@@ -116,25 +116,25 @@
                     "orderId": 1,
                     "latitude": -10.26667,
                     "longitude": 40.18333,
-                    "elevation": 12
+                    "elevation": 12.9
                 },
                 {
                     "orderId": 2,
                     "latitude": -10.26667,
                     "longitude": 41.18333,
-                    "elevation": 12
+                    "elevation": 12.9
                 },
                 {
                     "orderId": 3,
                     "latitude": -10.36667,
                     "longitude": 37.18333,
-                    "elevation": 2
+                    "elevation": 2.9
                 },
                 {
                     "orderId": 4,
                     "latitude": -10.37867,
                     "longitude": 39.18333,
-                    "elevation": 2
+                    "elevation": 2.8
                 }
             ]
         },
@@ -151,25 +151,25 @@
                     "orderId": 1,
                     "latitude": -10.26667,
                     "longitude": 40.18333,
-                    "elevation": 12
+                    "elevation": 12.7
                 },
                 {
                     "orderId": 2,
                     "latitude": -10.26667,
                     "longitude": 41.18333,
-                    "elevation": 12
+                    "elevation": 12.6
                 },
                 {
                     "orderId": 3,
                     "latitude": -10.36667,
                     "longitude": 37.18333,
-                    "elevation": 2
+                    "elevation": 20.6
                 },
                 {
                     "orderId": 4,
                     "latitude": -10.37867,
                     "longitude": 39.18333,
-                    "elevation": 2
+                    "elevation": 21.8
                 }
             ]
         }
